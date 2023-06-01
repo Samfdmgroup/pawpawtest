@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'PawsitivePals'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C3645BB9C3CC4813BA25C451F62A0094 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42A9A167BCF244B79B62C5A0BE7B1FF2 }}
           package: .
